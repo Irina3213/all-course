@@ -1,0 +1,23 @@
+{
+  "name": "start_galp",
+  "version": "1.0.0",
+  "description": "my gulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iryna Yeremizina <irina3213@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "del": "^8.0.1",
+    "gulp": "^5.0.1",
+    "gulp-autoprefixer": "^10.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.7.1",
+    "sass": "^1.93.2"
+  }
+}
