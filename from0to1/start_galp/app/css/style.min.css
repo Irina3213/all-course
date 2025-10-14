@@ -1,0 +1,17 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu__list {
+  margin: 0;
+  padding: 0;
+}
+
+.test {
+  display: grid;
+}
+
+body {
+  background-color: #cc1100;
+}
