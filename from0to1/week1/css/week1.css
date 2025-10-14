@@ -1,0 +1,30 @@
+/* селектор{
+свойство: значение;
+} */
+body {
+  background-color: #fcef0323;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid rebeccapurple;
+  box-sizing: border-box;
+}
+.back {
+  background-color: #47f5de28;
+  color: blue;
+  list-style-type: none;
+}
+h1 {
+  text-align: center;
+  color: yellowgreen;
+}
+.content {
+  font-size: 50px;
+}
+#text {
+  font-style: italic;
+  background-color: rgba(172, 240, 12, 0.3);
+}
+img {
+  width: 400px;
+  border-radius: 15px;
+}

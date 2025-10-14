@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+.title {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+  height: 500px;
+}
+.text {
+  font-style: italic;
+}
+.link:hover {
+  background-color: #00800030;
+  width: 180px;
+}
+span {
+  color: rgba(221, 0, 255, 0.658);
+}
