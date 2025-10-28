@@ -18,6 +18,7 @@
     "gulp-postcss": "^10.0.0",
     "gulp-sass": "^6.0.1",
     "gulp-uglify-es": "^3.0.0",
+    "rateyo": "^2.3.2",
     "sass": "^1.93.2",
     "swiper": "^12.0.3"
   },
