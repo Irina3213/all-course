@@ -11,6 +11,9 @@ const clean = require("gulp-clean");
 function scripts() {
   return src([
     // "node_modules/swiper/swiper-bundle.js",
+    "node_modules/jquery/dist/jquery.js",
+    "node_modules/slick-carousel/slick/slick.js",
+    "node_modules/@fancyapps/ui/dist/fancybox/fancybox.js",
     "app/js/main.js",
   ])
     .pipe(concat("main.min.js"))
